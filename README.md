@@ -1,1 +1,1 @@
-Hello this is class 10 file of noes 
+Hello this is class 10 file of notes 
